@@ -1,6 +1,15 @@
 {
+    "background_color": "white",
     "display": "fullscreen",
     "name": "dnsleaktest.com",
-    "shortname": "DNS Leak Test",
-    "start_url": "index.html"
+    "short_name": "DNS Leak Test",
+    "start_url": "/dnsleaktest-a2hs/index.html",
+    "icons": [
+        {
+            "src": "icon/internet-icon.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        }
+    ],
+    "description": "add dnsleaktest.com to home screen button manifest"
 }
