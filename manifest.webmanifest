@@ -1,0 +1,6 @@
+{
+    "display": "fullscreen",
+    "name": "dnsleaktest.com",
+    "shortname": "DNS Leak Test",
+    "start_url": "index.html"
+}
